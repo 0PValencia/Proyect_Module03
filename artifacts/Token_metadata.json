@@ -533,7 +533,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TokenB.sol": "TokenA"
+			"contracts/TokenB.sol": "Token"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -596,11 +596,11 @@
 			]
 		},
 		"contracts/TokenB.sol": {
-			"keccak256": "0x6cc6bdf62ac7f13b63e3182c61629c1981d26446f1dbe1cd0a98f2094fbc40ac",
+			"keccak256": "0x8a51980fd67b50455a062b6ce4b46d423e4971674f167c0998c5ebd6ec75abdd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e84f22a423a5e6ad6e2903628e9140fc62fbd03d5de4a4eb1da5339d24ab92b9",
-				"dweb:/ipfs/QmeaGGR86Rp4fzXby2EbNa6TC3oHDzK1jsjNiRkyk85xNT"
+				"bzz-raw://8fbff5f7e1d42056a4108339cbac9d6d9879acc62fe5b213f9bcb3c7c38fb081",
+				"dweb:/ipfs/QmWvGhzDNt2wVNW4QpkaYqpGhtBMu4mc6JLUAnUuTE6Zy2"
 			]
 		}
 	},
