@@ -344,7 +344,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TokenA.sol": "SimpleDEX"
+			"contracts/TokenB.sol": "SimpleDEX"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -382,7 +382,7 @@
 				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
 			]
 		},
-		"contracts/TokenA.sol": {
+		"contracts/TokenB.sol": {
 			"keccak256": "0xb597f759b5aa8adb2c9aba762f3d1bb88747f0303cbd399223fda04bd024d30a",
 			"license": "MIT",
 			"urls": [
